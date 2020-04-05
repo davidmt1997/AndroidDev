@@ -1,0 +1,7 @@
+Earthquake report app
+
+Project that I did for fun to learn about Networking with the Android framework.
+
+It shows the latest earthquakes that have happened in the world. You can choose the minimum magnitude to show and in which order to sort them.
+
+Uses JSON parsing, HTTP requests and threads, since all the network operations are done in the background.
